@@ -1,0 +1,4 @@
+../.-../---/...-/./-.--/---/..-/--...-....-...-/---..-...--...-/-..----.--.....
+比特梵德刚刚发布了gandcrab 5.1的解密工具。下载地址: https://dwz.cn/ITOnLOMc
+官方链接: https://labs.bitdefender.com/2019/02/new-gandcrab-v5-1-decryptor-available-now/
+MD5:  B35C64B3BA5A6A317586A3ED160F4FA3
